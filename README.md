@@ -1,6 +1,6 @@
 <p align="center"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=akane-aoki&theme=moltack" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akane-aoki&layout=compact&theme=moltack" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats-bwpunmzi6-akane-aoki.vercel.app/api?username=akane-aoki&theme=moltack" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-bwpunmzi6-akane-aoki.vercel.app/api/top-langs/?username=akane-aoki&layout=compact&theme=moltack" />
 </p>
 
 ## 個人開発
